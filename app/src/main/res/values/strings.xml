@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Casho</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="app_name_casho">CASHO</string>
+    <string name="str_profile">Profile</string>
+    <string name="str_rupee_symbol">₹</string>
+    <string name="str_percentage_0f">%.0f</string>
+    <string name="str_eg_enter_you_task">e.g. Enter you task</string>
+    <string name="str_amount">AMOUNT</string>
+    <string name="str_zero_dot_zero_zero">₹0.00</string>
+    <string name="str_achievable_goals">Achievable Goals</string>
+    <string name="str_shop_money">Shop Money</string>
+    <string name="total_available">TOTAL AVAILABLE</string>
+</resources>
